@@ -1,0 +1,19 @@
+{
+    "initial_working_directory": "~",
+    "posix_terminal_shell": "bash",
+    "restore_source_documents": false,
+    "save_workspace": "never",
+    "load_workspace": false,
+    "always_save_history": false,
+    "restore_last_project": false,
+    "jobs_tab_visibility": "shown",
+    "default_project_location": "/Users/dyavorsk/Desktop/rstudio",
+    "num_spaces_for_tab": 4,
+    "insert_native_pipe_operator": true,
+    "full_project_path_in_window_title": true,
+    "default_sweave_engine": "knitr",
+    "copilot_completions_delay": 200,
+    "rmd_viewer_type": "pane",
+    "show_hidden_files": true,
+    "editor_theme": "One Dark {Inspired}"
+}
